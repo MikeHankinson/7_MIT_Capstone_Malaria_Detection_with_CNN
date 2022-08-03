@@ -1,5 +1,5 @@
 # 7_MIT_Capstone_Malaria_Detection_with_CNN
-[Project Code](7_MIT_Capstone_Malaria_Detection_with_CNN)
+[Project Code](Reference_Notebook_Milestone_Final_Deep_Learning-1.ipynb)
 
 [Proect Code in Google Colab](https://colab.research.google.com/drive/155i-m1Or7z1-d4vFLo6BLtvLeQkx9dH8)
 
