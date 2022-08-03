@@ -1,4 +1,5 @@
 # 7_MIT_Capstone_Malaria_Detection_with_CNN
+[Proect Code in Google Colab](https://colab.research.google.com/drive/155i-m1Or7z1-d4vFLo6BLtvLeQkx9dH8)
  
 ![1](Pictures/1.png)
 
